@@ -1,4 +1,4 @@
-# Recommended Customer L|ist for Upgrade to AFFL|UENT Segment
+# Recommended Customer List for Upgrade to AFFLUENT Segment
 
 C_ID|C_AGE|PC|C_seg|
 :---:|:---:|:---:|:---:|
