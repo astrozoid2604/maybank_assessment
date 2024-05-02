@@ -7,7 +7,7 @@
     - The underlying assumption is that customers in the “AFFLUENT” segments are more likely to be interested in, and can afford, a broader range of banking products and services, especially those that are more premium or specialized. 
     - This customer segment upgrade is seen as a pathway to increasing bank revenue.
 - Project Objectives
-    - As a senior data scientist, the main objective is to identify existing cutomers (“ETB” or Existing To Bank customers) who, despite being classified under the “NORMAL” segment, exhibit characteristics or behaviors that align with those typically associated with “AFFLUENT” customers.
+    - The main objective is to identify existing cutomers (“ETB” or Existing To Bank customers) who, despite being classified under the “NORMAL” segment, exhibit characteristics or behaviors that align with those typically associated with “AFFLUENT” customers.
     - These are the “hidden AFFLUENT customers” the bank aims to target for segement upgrade promotions. Identifying these customers involves analyzing customer data to uncover patterns or indicators of affluence not immediately apparent through their current segment classification.
 - To achieve said objectives, the project involves several key tasks which will be discussed in more in-depth in this slide deck.
     - **Data Analysis & Feature Selection:** Analyzing the bank’s customer data to understand the behaviors, characteristics, and patterns that differentiate “NORMAL” from “AFFLUENT” customers. This involves selecting features (e.g., account balances, transaction volumes, product holdings) that might indicate a higher propensity for being “AFFLUENT”.
