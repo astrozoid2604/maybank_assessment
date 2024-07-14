@@ -1,3 +1,6 @@
+
+![thumbnail](thumbnail.png)
+
 # 1. INTRODUCTION
 
 ## Business Problem and Project Objectives
